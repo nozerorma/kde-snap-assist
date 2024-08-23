@@ -4,7 +4,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/emvaized/kde-snap-assist?color=limegreen)](https://github.com/emvaized/kde-snap-assist/releases)
 
 
-**⚠️ Only Plasma 5 is supported for now ⚠️**
+**⚠️ Only Plasma 5 is supported for now! Plasma 6 port is being [worked on](https://github.com/emvaized/kde-snap-assist/issues/47#issuecomment-2307760205) ⚠️**
 
 This KWin script for KDE Plasma suggests other window thumbnails on snap. It tries to replicate the famous Windows 10/11 feature of the same name.
 
