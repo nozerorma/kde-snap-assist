@@ -4,7 +4,8 @@
 [![GitHub Release](https://img.shields.io/github/v/release/emvaized/kde-snap-assist?color=limegreen)](https://github.com/emvaized/kde-snap-assist/releases)
 
 
-**⚠️ Only Plasma 5 is supported for now! Plasma 6 port is being [worked on](https://github.com/emvaized/kde-snap-assist/issues/47#issuecomment-2307760205)**
+> [!NOTE]\
+> **⚠️ Only Plasma 5 is supported for now! Plasma 6 port is being [worked on](https://github.com/emvaized/kde-snap-assist/issues/47#issuecomment-2307760205)**
 
 This KWin script for KDE Plasma suggests other window thumbnails on snap. It tries to replicate the famous Windows 10/11 feature of the same name.
 
@@ -30,7 +31,7 @@ In order to install this script manually from GitHub, you'd need to:
 - Use the "Install from file" button in System settings > Windows manager > KWin scripts
 - Re-login to Plasma again (or restart KWin) to make sure the script is installed
 
-You can also help testing the experimental [2.0-dev](https://github.com/emvaized/kde-snap-assist/releases/tag/v.2.0-dev2) version, if you're into this kind of stuff!
+There is also experimental [2.0-dev](https://github.com/emvaized/kde-snap-assist/releases/tag/v.2.0-dev2) version, which you could help to test!
 
 ## Snap Groups
 
