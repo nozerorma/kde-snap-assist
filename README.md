@@ -9,19 +9,19 @@
 
 This KWin script for KDE Plasma suggests other window thumbnails on snap. It tries to replicate the famous Windows 10/11 feature of the same name.
 
-Assist can be shown by dragging a window to the screen edge, as well as via default keyboard shortcuts (`super`+arrows).
-You can select the window with mouse, as well as with arrow keys + `Enter`. 
-To dismiss the assist, hit `Escape` key, press the close button or click anywhere on the empty area. 
-Script also supports quarter and triple tiling: you can switch layouts with the `Tab` key or using the button in corner.
+Assist can be shown by dragging a window to the screen edge, as well as via default keyboard shortcuts (<kbd>super</kbd> + arrows).
+You can select the window with mouse, as well as with arrow keys + <kbd>Enter</kbd>. 
+To dismiss the assist, hit <kbd>Escape</kbd> key, press the close button or click anywhere on the empty area. 
+Script also supports quarter and triple tiling: you can switch layouts with the <kbd>Tab</kbd> key or using the button in corner.
 
 Ideas, suggestions, bugs reports and contributions to the project are welcome!
 
 ## Support
 This project is in need of your support! If you enjoy it and want to keep it going on, please consider supporting by making a small donation using one of the services below! 
 
-<a href="https://ko-fi.com/emvaized"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea0b_kofi_long_button_red%25402x-p-800.png" alt="Support on Ko-fi" height="40"></a> &nbsp;&nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp;&nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" width="90"/></a>
+<a href="https://ko-fi.com/emvaized"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea0b_kofi_long_button_red%25402x-p-800.png" alt="Support on Ko-fi" height="40"></a> &nbsp;&nbsp; <a href="https://liberapay.com/emvaized/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="40"></a> &nbsp;&nbsp; <a href="https://emvaized.github.io/donate/bitcoin/"><img src="https://github.com/emvaized/emvaized.github.io/blob/main/donate/bitcoin/assets/bitcoin-donate-button.png?raw=true" alt="Donate Bitcoin" height="40" /></a>
 
-## Screenshots
+## Screenshot
 ![screenshot_snapassist](./assets/screenshot.png)
 
 ## Manual Installation
@@ -60,7 +60,7 @@ When you enable any of these options in the script settings, it will start track
 
 #### Compatibility with diagonal keyboard shortcuts
 
-- Version 1.4 introduces an option "Delay before showing the assist", which gives some time to execute 'diagonal' shortcuts (`super` + `↑` + `→`) before Assist gets shown. The default value is `100ms`.
+- Version 1.4 introduces an option "Delay before showing the assist", which gives some time to execute 'diagonal' shortcuts (<kbd>super</kbd> + <kbd>↑</kbd> + <kbd>→</kbd>) before Assist gets shown. The default value is `100ms`.
 
 
 ## Troubleshooting
